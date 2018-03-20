@@ -1,0 +1,3 @@
+The connection between the app and the backend hosted locally
+as this is the prototype only we are not creating an online server.
+It is developed using python GUI and socket programming.
